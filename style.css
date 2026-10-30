@@ -24,3 +24,5 @@
 }
 
 .instagram-icon{display:inline-block;width:20px;height:20px;flex-shrink:0;vertical-align:middle}.nav-instagram,.footer-links a[href*="instagram.com"]{display:inline-flex;align-items:center;justify-content:center;gap:10px}.text-link .instagram-icon{width:18px;height:18px}
+
+.shopping-note{font-size:12px;color:var(--rose);max-width:420px;margin-top:16px;padding-left:12px;border-left:2px solid #c4a0a5}#top{scroll-margin-top:0}
