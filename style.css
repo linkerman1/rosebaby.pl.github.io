@@ -22,3 +22,5 @@
  .photo-note{position:static;margin-top:10px;padding:0;background:none}
  .hero-visual{margin:0}
 }
+
+.instagram-icon{display:inline-block;width:20px;height:20px;flex-shrink:0;vertical-align:middle}.nav-instagram,.footer-links a[href*="instagram.com"]{display:inline-flex;align-items:center;justify-content:center;gap:10px}.text-link .instagram-icon{width:18px;height:18px}
